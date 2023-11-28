@@ -1,0 +1,3202 @@
+{
+  "Version": 79,
+  "ExpressionProfiles": [
+    {
+      "Type": "Enzyme",
+      "Species": "Human",
+      "Molecule": "CYP3A4",
+      "Category": "European (P-gp modified, CYP3A4 36 h)",
+      "Parameters": [
+        {
+          "Path": "CYP3A4|Reference concentration",
+          "Value": 4.32,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "CYP3A4|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "CYP3A4|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0041682898325
+        },
+        {
+          "Path": "Organism|Gonads|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.00078691079081
+        },
+        {
+          "Path": "Organism|Kidney|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0053603428126
+        },
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|CYP3A4|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|CYP3A4|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Lung|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.00042695753798
+        },
+        {
+          "Path": "Organism|SmallIntestine|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        }
+      ],
+      "Localization": "Intracellular, BloodCellsIntracellular, VascEndosome",
+      "Ontogeny": {
+        "Name": "CYP3A4"
+      }
+    },
+    {
+      "Type": "Enzyme",
+      "Species": "Human",
+      "Molecule": "AADAC",
+      "Category": "European (P-gp modified, CYP3A4 36 h)",
+      "Parameters": [
+        {
+          "Path": "AADAC|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "AADAC|Relative expression in blood cells",
+          "Value": 3.9102564103E-05
+        },
+        {
+          "Path": "AADAC|Relative expression in plasma",
+          "Value": 3.9102564103E-05
+        },
+        {
+          "Path": "AADAC|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "AADAC|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "Organism|Bone|Intracellular|AADAC|Relative expression",
+          "Value": 4.8717948718E-05
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|AADAC|Relative expression",
+          "Value": 3.9743589744E-05
+        },
+        {
+          "Path": "Organism|Gonads|Intracellular|AADAC|Relative expression",
+          "Value": 0.0011923076923
+        },
+        {
+          "Path": "Organism|Heart|Intracellular|AADAC|Relative expression",
+          "Value": 0.0026602564103
+        },
+        {
+          "Path": "Organism|Kidney|Intracellular|AADAC|Relative expression",
+          "Value": 5.7051282051E-05
+        },
+        {
+          "Path": "Organism|LargeIntestine|Intracellular|AADAC|Relative expression",
+          "Value": 0.00010384615385
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonAscendens|Intracellular|AADAC|Relative expression",
+          "Value": 0.00010384615385
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonDescendens|Intracellular|AADAC|Relative expression",
+          "Value": 0.00010384615385
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonSigmoid|Intracellular|AADAC|Relative expression",
+          "Value": 0.00010384615385
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonTransversum|Intracellular|AADAC|Relative expression",
+          "Value": 0.00010384615385
+        },
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|AADAC|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|AADAC|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Lung|Intracellular|AADAC|Relative expression",
+          "Value": 0.0269230769
+        },
+        {
+          "Path": "Organism|Muscle|Intracellular|AADAC|Relative expression",
+          "Value": 0.00020833333333
+        },
+        {
+          "Path": "Organism|Pancreas|Intracellular|AADAC|Relative expression",
+          "Value": 0.1474358974
+        },
+        {
+          "Path": "Organism|SmallIntestine|Intracellular|AADAC|Relative expression",
+          "Value": 0.2544871795
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|AADAC|Relative expression",
+          "Value": 0.2544871795
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|AADAC|Relative expression",
+          "Value": 0.2544871795
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|AADAC|Relative expression",
+          "Value": 0.2544871795
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|AADAC|Relative expression",
+          "Value": 0.2544871795
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|AADAC|Relative expression",
+          "Value": 0.2544871795
+        },
+        {
+          "Path": "Organism|Spleen|Intracellular|AADAC|Relative expression",
+          "Value": 0.00037115384615
+        },
+        {
+          "Path": "Organism|Stomach|Intracellular|AADAC|Relative expression",
+          "Value": 0.0775641026
+        }
+      ],
+      "Localization": "Intracellular, BloodCellsIntracellular, VascEndosome"
+    },
+    {
+      "Type": "Transporter",
+      "Species": "Human",
+      "Molecule": "P-gp",
+      "Category": "European (P-gp modified, CYP3A4 36 h)",
+      "Parameters": [
+        {
+          "Path": "Organism|Bone|Intracellular|P-gp|Relative expression",
+          "Value": 0.0242518189
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|P-gp|Relative expression",
+          "Value": 0.07608904
+        },
+        {
+          "Path": "Organism|Gonads|Intracellular|P-gp|Relative expression",
+          "Value": 0.017417973
+        },
+        {
+          "Path": "Organism|Heart|Intracellular|P-gp|Relative expression",
+          "Value": 0.0419198106
+        },
+        {
+          "Path": "Organism|Kidney|Intracellular|P-gp|Relative expression",
+          "Value": 0.7092198582
+        },
+        {
+          "Path": "Organism|LargeIntestine|Intracellular|P-gp|Relative expression",
+          "Value": 0.1108416465
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonAscendens|Intracellular|P-gp|Relative expression",
+          "Value": 0.3971631206
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonDescendens|Intracellular|P-gp|Relative expression",
+          "Value": 0.3971631206
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonSigmoid|Intracellular|P-gp|Relative expression",
+          "Value": 0.3971631206
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonTransversum|Intracellular|P-gp|Relative expression",
+          "Value": 0.3971631206
+        },
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|P-gp|Relative expression",
+          "Value": 0.1916810428
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|P-gp|Relative expression",
+          "Value": 0.1916810428
+        },
+        {
+          "Path": "Organism|Lung|Intracellular|P-gp|Relative expression",
+          "Value": 0.0657549316
+        },
+        {
+          "Path": "Organism|Muscle|Intracellular|P-gp|Relative expression",
+          "Value": 0.0128342959
+        },
+        {
+          "Path": "Organism|Pancreas|Intracellular|P-gp|Relative expression",
+          "Value": 0.0142510689
+        },
+        {
+          "Path": "Organism|SmallIntestine|Intracellular|P-gp|Relative expression",
+          "Value": 0.2808543974
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|P-gp|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|P-gp|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|P-gp|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|P-gp|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|P-gp|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Spleen|Intracellular|P-gp|Relative expression",
+          "Value": 0.0742555691
+        },
+        {
+          "Path": "Organism|Stomach|Intracellular|P-gp|Relative expression",
+          "Value": 0.0260852897
+        },
+        {
+          "Path": "P-gp|Reference concentration",
+          "Value": 1.41,
+          "Unit": "µmol/l",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "P-gp|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "P-gp|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h"
+        }
+      ],
+      "TransportType": "Efflux",
+      "Expression": [
+        {
+          "Name": "Bone",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Brain",
+          "TransportDirection": "EffluxBrainInterstitialToPlasma",
+          "CompartmentName": "Plasma"
+        },
+        {
+          "Name": "Brain",
+          "TransportDirection": "EffluxBrainTissueToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Fat",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Gonads",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Heart",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Kidney",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Kidney",
+          "TransportDirection": "ExcretionKidney",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Stomach",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "SmallIntestine",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Duodenum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Duodenum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "UpperJejunum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "UpperJejunum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "LowerJejunum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "LowerJejunum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "UpperIleum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "UpperIleum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "LowerIleum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "LowerIleum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "LargeIntestine",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Caecum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Caecum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonAscendens",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonAscendens",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonTransversum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonTransversum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonDescendens",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonDescendens",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonSigmoid",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonSigmoid",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Rectum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Rectum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Periportal",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Periportal",
+          "TransportDirection": "ExcretionLiver",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Pericentral",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Pericentral",
+          "TransportDirection": "ExcretionLiver",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Lung",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Muscle",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Pancreas",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Skin",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Spleen",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "BloodCells",
+          "TransportDirection": "EffluxBloodCellsToPlasma"
+        },
+        {
+          "Name": "VascularEndothelium",
+          "TransportDirection": "EffluxInterstitialToPlasma"
+        }
+      ],
+      "Ontogeny": {
+        "Name": "P-gp",
+        "Table": {
+          "Name": "TableFormula",
+          "Percentile": 0.0,
+          "DistributionMetaData": [
+            {
+              "Mean": 1E-14,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 1.915059E-05,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 5.486795E-05,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.0001571905,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.0004502473,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.001288958,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.00368424,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.01048397,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.02946235,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.0800178,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.1994918,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.4165768,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.6716791,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.8542612,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.943803,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.9796414,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.992799,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.9974749,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.9991173,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.9996917,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.9998924,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.9999624,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.9999869,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 1.0,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            }
+          ],
+          "XName": "Postmenstrual age",
+          "XDimension": "Age in years",
+          "XUnit": "year(s)",
+          "YName": "P-gp",
+          "YDimension": "Fraction",
+          "UseDerivedValues": false,
+          "Points": [
+            {
+              "X": 0.0,
+              "Y": 1E-14,
+              "RestartSolver": false
+            },
+            {
+              "X": 0.08333334,
+              "Y": 1.915059E-05,
+              "RestartSolver": false
+            },
+            {
+              "X": 0.1666667,
+              "Y": 5.486795E-05,
+              "RestartSolver": false
+            },
+            {
+              "X": 0.25,
+              "Y": 0.0001571905,
+              "RestartSolver": false
+            },
+            {
+              "X": 0.3333333,
+              "Y": 0.0004502473,
+              "RestartSolver": false
+            },
+            {
+              "X": 0.4166667,
+              "Y": 0.001288958,
+              "RestartSolver": false
+            },
+            {
+              "X": 0.5,
+              "Y": 0.00368424,
+              "RestartSolver": false
+            },
+            {
+              "X": 0.5833333,
+              "Y": 0.01048397,
+              "RestartSolver": false
+            },
+            {
+              "X": 0.6666667,
+              "Y": 0.02946235,
+              "RestartSolver": false
+            },
+            {
+              "X": 0.75,
+              "Y": 0.0800178,
+              "RestartSolver": false
+            },
+            {
+              "X": 0.8333333,
+              "Y": 0.1994918,
+              "RestartSolver": false
+            },
+            {
+              "X": 0.9166667,
+              "Y": 0.4165768,
+              "RestartSolver": false
+            },
+            {
+              "X": 1.0,
+              "Y": 0.6716791,
+              "RestartSolver": false
+            },
+            {
+              "X": 1.083333,
+              "Y": 0.8542612,
+              "RestartSolver": false
+            },
+            {
+              "X": 1.166667,
+              "Y": 0.943803,
+              "RestartSolver": false
+            },
+            {
+              "X": 1.25,
+              "Y": 0.9796414,
+              "RestartSolver": false
+            },
+            {
+              "X": 1.333333,
+              "Y": 0.992799,
+              "RestartSolver": false
+            },
+            {
+              "X": 1.416667,
+              "Y": 0.9974749,
+              "RestartSolver": false
+            },
+            {
+              "X": 1.5,
+              "Y": 0.9991173,
+              "RestartSolver": false
+            },
+            {
+              "X": 1.583333,
+              "Y": 0.9996917,
+              "RestartSolver": false
+            },
+            {
+              "X": 1.666667,
+              "Y": 0.9998924,
+              "RestartSolver": false
+            },
+            {
+              "X": 1.75,
+              "Y": 0.9999624,
+              "RestartSolver": false
+            },
+            {
+              "X": 1.833333,
+              "Y": 0.9999869,
+              "RestartSolver": false
+            },
+            {
+              "X": 3.333333,
+              "Y": 1.0,
+              "RestartSolver": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "Type": "Transporter",
+      "Species": "Human",
+      "Molecule": "OATP1B1",
+      "Category": "European (P-gp modified, CYP3A4 36 h)",
+      "Parameters": [
+        {
+          "Path": "OATP1B1|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "OATP1B1|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "OATP1B1|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|OATP1B1|Relative expression",
+          "Value": 0.00014166666667
+        },
+        {
+          "Path": "Organism|Gonads|Intracellular|OATP1B1|Relative expression",
+          "Value": 0.0141666667
+        },
+        {
+          "Path": "Organism|Heart|Intracellular|OATP1B1|Relative expression",
+          "Value": 0.0008253968254
+        },
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|OATP1B1|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|OATP1B1|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Lung|Intracellular|OATP1B1|Relative expression",
+          "Value": 4.0079365079E-05
+        },
+        {
+          "Path": "Organism|Muscle|Intracellular|OATP1B1|Relative expression",
+          "Value": 0.00064682539683
+        }
+      ],
+      "TransportType": "Influx",
+      "Expression": [
+        {
+          "Name": "Bone",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Brain",
+          "TransportDirection": "InfluxBrainPlasmaToInterstitial",
+          "CompartmentName": "Plasma"
+        },
+        {
+          "Name": "Brain",
+          "TransportDirection": "InfluxBrainInterstitialToTissue",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Fat",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Gonads",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Heart",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Kidney",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Kidney",
+          "TransportDirection": "ExcretionKidney",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Stomach",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "SmallIntestine",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Duodenum",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Duodenum",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "UpperJejunum",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "UpperJejunum",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "LowerJejunum",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "LowerJejunum",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "UpperIleum",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "UpperIleum",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "LowerIleum",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "LowerIleum",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "LargeIntestine",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Caecum",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Caecum",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonAscendens",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonAscendens",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonTransversum",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonTransversum",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonDescendens",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonDescendens",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonSigmoid",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonSigmoid",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Rectum",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Rectum",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Periportal",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Periportal",
+          "TransportDirection": "ExcretionLiver",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Pericentral",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Pericentral",
+          "TransportDirection": "ExcretionLiver",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Lung",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Muscle",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Pancreas",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Skin",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Spleen",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "BloodCells",
+          "TransportDirection": "InfluxPlasmaToBloodCells"
+        },
+        {
+          "Name": "VascularEndothelium",
+          "TransportDirection": "InfluxPlasmaToInterstitial"
+        }
+      ]
+    },
+    {
+      "Type": "OtherProtein",
+      "Species": "Human",
+      "Molecule": "ATP1A2",
+      "Category": "European (P-gp modified, CYP3A4 36 h)",
+      "Parameters": [
+        {
+          "Path": "ATP1A2|Reference concentration",
+          "Value": 0.39140774,
+          "Unit": "µmol/l",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "ATP1A2|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "ATP1A2|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "Organism|Bone|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0062154033171
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|ATP1A2|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Gonads|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0508741242
+        },
+        {
+          "Path": "Organism|Heart|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.3179118843
+        },
+        {
+          "Path": "Organism|Kidney|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0158938619
+        },
+        {
+          "Path": "Organism|LargeIntestine|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0786998764
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonAscendens|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0786998764
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonDescendens|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0786998764
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonSigmoid|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0786998764
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonTransversum|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0786998764
+        },
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0223784807
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0223784807
+        },
+        {
+          "Path": "Organism|Lung|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0272345453
+        },
+        {
+          "Path": "Organism|Muscle|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.7034193524
+        },
+        {
+          "Path": "Organism|Pancreas|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0073903254795
+        },
+        {
+          "Path": "Organism|Skin|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0389467988
+        },
+        {
+          "Path": "Organism|SmallIntestine|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0501579923
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0501579923
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0501579923
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0501579923
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0501579923
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0501579923
+        },
+        {
+          "Path": "Organism|Spleen|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0103243118
+        },
+        {
+          "Path": "Organism|Stomach|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0309435884
+        }
+      ],
+      "Localization": "Interstitial, BloodCellsMembrane, VascMembranePlasmaSide"
+    },
+    {
+      "Type": "Enzyme",
+      "Species": "Human",
+      "Molecule": "UGT1A4",
+      "Category": "European (P-gp modified, CYP3A4 36 h)",
+      "Parameters": [
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|UGT1A4|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|UGT1A4|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "UGT1A4|Reference concentration",
+          "Value": 2.32,
+          "Unit": "µmol/l",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "UGT1A4|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "UGT1A4|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h"
+        }
+      ],
+      "Localization": "Intracellular, BloodCellsIntracellular, VascEndosome",
+      "Ontogeny": {
+        "Name": "UGT1A4"
+      }
+    },
+    {
+      "Type": "OtherProtein",
+      "Species": "Human",
+      "Molecule": "GABRG2",
+      "Category": "European (P-gp modified, CYP3A4 36 h)",
+      "Parameters": [
+        {
+          "Path": "GABRG2|Reference concentration",
+          "Value": 1.04099689,
+          "Unit": "µmol/l",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "GABRG2|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "GABRG2|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|GABRG2|Relative expression",
+          "Value": 1.0
+        }
+      ],
+      "Localization": "Interstitial, BloodCellsMembrane, VascMembranePlasmaSide"
+    }
+  ],
+  "Individuals": [
+    {
+      "Name": "European (P-gp modified, CYP3A4 36 h)",
+      "Seed": 17189110,
+      "OriginData": {
+        "CalculationMethods": [
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
+        ],
+        "Species": "Human",
+        "Population": "European_ICRP_2002",
+        "Gender": "MALE",
+        "Age": {
+          "Value": 30.0,
+          "Unit": "year(s)"
+        }
+      },
+      "Parameters": [
+        {
+          "Path": "Organism|Liver|EHC continuous fraction",
+          "Value": 1.0,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        }
+      ],
+      "ExpressionProfiles": [
+        "CYP3A4|Human|European (P-gp modified, CYP3A4 36 h)",
+        "AADAC|Human|European (P-gp modified, CYP3A4 36 h)",
+        "P-gp|Human|European (P-gp modified, CYP3A4 36 h)",
+        "OATP1B1|Human|European (P-gp modified, CYP3A4 36 h)",
+        "ATP1A2|Human|European (P-gp modified, CYP3A4 36 h)",
+        "UGT1A4|Human|European (P-gp modified, CYP3A4 36 h)",
+        "GABRG2|Human|European (P-gp modified, CYP3A4 36 h)"
+      ]
+    }
+  ],
+  "Compounds": [
+    {
+      "Name": "Erythromycin",
+      "IsSmallMolecule": true,
+      "Lipophilicity": [
+        {
+          "Name": "Literature (average value)",
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 2.82,
+              "Unit": "Log Units",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Parameter Identification 1' on 2020-01-13 15:01"
+              }
+            }
+          ]
+        }
+      ],
+      "FractionUnbound": [
+        {
+          "Name": "Barre 1987",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 0.305,
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVivo",
+                "Description": "PMID: 3606934"
+              }
+            }
+          ]
+        }
+      ],
+      "Solubility": [
+        {
+          "Name": "Erythromycin stearate film-coated tablet",
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 28.0708790976,
+              "Unit": "mg/l",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from '003 - BP conc ratio FIX' on 2019-11-14 14:43"
+              }
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 7.0,
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from '001' on 2019-10-01 13:46"
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Erythromycin base enteric coated pellets",
+          "IsDefault": false,
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 500.0,
+              "Unit": "mg/l",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from '001' on 2019-10-01 13:46"
+              }
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 7.0,
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from '001' on 2019-10-01 13:46"
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Erythromycin lactobionate",
+          "IsDefault": false,
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 200.0,
+              "Unit": "mg/ml",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Hoffhine, Jr Charles E. \"Aqueous soluble salts of erythromycin.\" U.S. Patent 2,761,859, issued September 4, 1956. "
+              }
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 7.0,
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Hoffhine, Jr Charles E. \"Aqueous soluble salts of erythromycin.\" U.S. Patent 2,761,859, issued September 4, 1956. "
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Erythromycin base enteric coated tablet",
+          "IsDefault": false,
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 8.3990771997,
+              "Unit": "mg/l",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Parameter Identification 1' on 2020-01-13 15:01"
+              }
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 7.0
+            }
+          ]
+        }
+      ],
+      "IntestinalPermeability": [
+        {
+          "Name": "Fitted",
+          "Parameters": [
+            {
+              "Name": "Specific intestinal permeability (transcellular)",
+              "Value": 0.00038668371665,
+              "Unit": "cm/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Parameter Identification 1' on 2020-01-13 15:01"
+              }
+            }
+          ]
+        }
+      ],
+      "PkaTypes": [
+        {
+          "Type": "Base",
+          "Pka": 8.88,
+          "ValueOrigin": {
+            "Source": "Publication",
+            "Method": "Unknown",
+            "Description": "PMID: 9135031"
+          }
+        }
+      ],
+      "Processes": [
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "Biotransformation_fitted",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 918.33333,
+              "Unit": "pmol/min/mg mic. protein",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "PMID: 9566442"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 70.0,
+              "Unit": "µM",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Average of reported values in the literature (PMID: 9107550 and PMID: 9566442)"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "GlomerularFiltration",
+          "DataSource": "fitted",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "GFR fraction",
+              "Value": 1.1591081815,
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Parameter Identification 1' on 2020-01-13 15:01"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "IrreversibleInhibition",
+          "DataSource": "MBI",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "kinact",
+              "Value": 0.0296261146,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Parameter Identification 1' on 2020-01-13 15:01"
+              }
+            },
+            {
+              "Name": "K_kinact_half",
+              "Value": 7.6007360452,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Parameter Identification 1' on 2020-01-13 15:01"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "ActiveTransportSpecific_MM",
+          "DataSource": "fitted",
+          "Molecule": "OATP1B1",
+          "Parameters": [
+            {
+              "Name": "Transporter concentration",
+              "Value": 1.0,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "Vmax",
+              "Value": 11.66,
+              "Unit": "pmol/ml/min",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "PMID: 22990751"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 0.735836485,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Parameter Identification 1' on 2020-01-13 15:01"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 1.350032201,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Parameter Identification 1' on 2020-01-13 15:01"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "LiverClearance",
+          "DataSource": "fitted",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (experiment)",
+              "Value": 0.305
+            },
+            {
+              "Name": "Lipophilicity (experiment)",
+              "Value": 2.48,
+              "Unit": "Log Units"
+            },
+            {
+              "Name": "Plasma clearance",
+              "Value": 0.0,
+              "Unit": "ml/min/kg"
+            },
+            {
+              "Name": "Specific clearance",
+              "Value": 4.1462183378,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Parameter Identification 1' on 2020-01-13 15:01"
+              }
+            }
+          ]
+        }
+      ],
+      "CalculationMethods": [
+        "Cellular partition coefficient method - Rodgers and Rowland",
+        "Cellular permeability - Charge dependent Schmitt"
+      ],
+      "Parameters": [
+        {
+          "Name": "Molecular weight",
+          "Value": 733.927,
+          "Unit": "g/mol",
+          "ValueOrigin": {
+            "Source": "Internet",
+            "Description": "drugbank.ca"
+          }
+        }
+      ]
+    },
+    {
+      "Name": "Felodipine",
+      "IsSmallMolecule": true,
+      "Lipophilicity": [
+        {
+          "Name": "Measurement",
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 4.5085714616,
+              "Unit": "Log Units",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'PI_IV+Solution+ER+DDI_additionalCL_3' on 2022-08-10 10:40"
+              }
+            }
+          ]
+        }
+      ],
+      "FractionUnbound": [
+        {
+          "Name": "Measurement",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 0.0036,
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Ushimura, 2010"
+              }
+            }
+          ]
+        }
+      ],
+      "Solubility": [
+        {
+          "Name": "FaSSIF II",
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 12.0,
+              "Unit": "µg/ml",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Soderlind, 2010"
+              }
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 6.5,
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Soderlind, 2010"
+              }
+            }
+          ]
+        }
+      ],
+      "Processes": [
+        {
+          "InternalName": "MetabolizationLiverMicrosomes_MM",
+          "DataSource": "Walsky 2004",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax for liver microsomes",
+              "Value": 1630.0,
+              "Unit": "pmol/min/mg mic. protein",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Walsky 2004"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 2.81,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Walsky 2004"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 204.6995652687,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'PI_IV+Solution+ER+DDI_additionalCL_3' on 2022-08-10 10:40"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "LiverClearance",
+          "DataSource": "Unspecific hepatic clearance",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (experiment)",
+              "Value": 0.0036
+            },
+            {
+              "Name": "Lipophilicity (experiment)",
+              "Value": 4.3407865958,
+              "Unit": "Log Units"
+            },
+            {
+              "Name": "Plasma clearance",
+              "Value": 0.0,
+              "Unit": "ml/min/kg"
+            },
+            {
+              "Name": "Specific clearance",
+              "Value": 12.8042083376,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'PI_IV+Solution+ER+DDI_additionalCL_3' on 2022-08-10 10:41"
+              }
+            }
+          ]
+        }
+      ],
+      "CalculationMethods": [
+        "Cellular partition coefficient method - Rodgers and Rowland",
+        "Cellular permeability - PK-Sim Standard"
+      ],
+      "Parameters": [
+        {
+          "Name": "Cl",
+          "Value": 2.0,
+          "ValueOrigin": {
+            "Source": "Internet",
+            "Description": "DrugBank DB01023"
+          }
+        },
+        {
+          "Name": "Molecular weight",
+          "Value": 384.254,
+          "Unit": "g/mol",
+          "ValueOrigin": {
+            "Source": "Internet",
+            "Description": "DrugBank DB01023"
+          }
+        }
+      ]
+    }
+  ],
+  "Formulations": [
+    {
+      "Name": "Erythromycin_Weibull_enteric-coated-tablet",
+      "FormulationType": "Formulation_Tablet_Weibull",
+      "Parameters": [
+        {
+          "Name": "Dissolution time (50% dissolved)",
+          "Value": 79.6337524677,
+          "Unit": "min",
+          "ValueOrigin": {
+            "Source": "ParameterIdentification",
+            "Method": "ParameterIdentification",
+            "Description": "Value updated from 'Parameter Identification 1' on 2020-01-13 15:01"
+          }
+        },
+        {
+          "Name": "Lag time",
+          "Value": 78.7967495765,
+          "Unit": "min",
+          "ValueOrigin": {
+            "Source": "ParameterIdentification",
+            "Method": "ParameterIdentification",
+            "Description": "Value updated from 'Parameter Identification 1' on 2020-01-13 15:01"
+          }
+        },
+        {
+          "Name": "Dissolution shape",
+          "Value": 1.0838799888,
+          "ValueOrigin": {
+            "Source": "ParameterIdentification",
+            "Method": "ParameterIdentification",
+            "Description": "Value updated from 'Parameter Identification 1' on 2020-01-13 15:01"
+          }
+        },
+        {
+          "Name": "Use as suspension",
+          "Value": 1.0
+        }
+      ]
+    },
+    {
+      "Name": "Felodipine_ER tablet",
+      "FormulationType": "Formulation_Tablet_Weibull",
+      "Parameters": [
+        {
+          "Name": "Dissolution time (50% dissolved)",
+          "Value": 286.9463213309,
+          "Unit": "min",
+          "ValueOrigin": {
+            "Source": "ParameterIdentification",
+            "Method": "ParameterIdentification",
+            "Description": "Value updated from 'PI_IV+Solution+ER+DDI_additionalCL_3' on 2022-08-10 10:41"
+          }
+        },
+        {
+          "Name": "Lag time",
+          "Value": 18.6758448616,
+          "Unit": "min",
+          "ValueOrigin": {
+            "Source": "ParameterIdentification",
+            "Method": "ParameterIdentification",
+            "Description": "Value updated from 'PI_IV+Solution+ER+DDI_additionalCL_3' on 2022-08-10 10:41"
+          }
+        },
+        {
+          "Name": "Dissolution shape",
+          "Value": 0.7639975313,
+          "ValueOrigin": {
+            "Source": "ParameterIdentification",
+            "Method": "ParameterIdentification",
+            "Description": "Value updated from 'PI_IV+Solution+ER+DDI_additionalCL_3' on 2022-08-10 10:41"
+          }
+        },
+        {
+          "Name": "Use as suspension",
+          "Value": 1.0
+        }
+      ]
+    }
+  ],
+  "Protocols": [
+    {
+      "Name": "Bailey1996_Treatment_Erythromycin_PO_250mg_QID",
+      "DosingInterval": "Single",
+      "Schemas": [
+        {
+          "Name": "Schema 1",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 250.0,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 8.0,
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 6.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        }
+      ],
+      "TimeUnit": "h"
+    },
+    {
+      "Name": "Bailey1996_Treatment_Felodipine_PO_10mg_24h",
+      "DosingInterval": "Single",
+      "Schemas": [
+        {
+          "Name": "Schema 1",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 10.0,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 24.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 1.0
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 0.0,
+              "Unit": "h"
+            }
+          ]
+        }
+      ],
+      "TimeUnit": "h"
+    },
+    {
+      "Name": "Bailey1996_Control_Felodipine_PO_10mg",
+      "DosingInterval": "Single",
+      "Schemas": [
+        {
+          "Name": "Schema 1",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 10.0,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 1.0
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 0.0,
+              "Unit": "h"
+            }
+          ]
+        }
+      ],
+      "TimeUnit": "h"
+    }
+  ],
+  "Simulations": [
+    {
+      "Name": "Bailey1996_Control",
+      "Model": "4Comp",
+      "ObservedData": [
+        "Bailey 1996 - 10mg-PO ER tablet - Felodipine - PO - 10 mg - Plasma - agg. (n=12)"
+      ],
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "End time",
+              "Value": 24.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "Resolution",
+              "Value": 4.0,
+              "Unit": "pts/h"
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|Bailey1996_Control_Felodipine_PO_10mg|Felodipine_ER tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Bailey1996_Control_Felodipine_PO_10mg|Felodipine_ER tablet|Application_1|Tablet time delay factor",
+          "Value": 0.0695415108,
+          "ValueOrigin": {
+            "Source": "ParameterIdentification",
+            "Method": "ParameterIdentification",
+            "Description": "Value updated from 'PI_IV+Solution+ER+DDI_additionalCL_3' on 2022-08-10 10:41"
+          }
+        },
+        {
+          "Path": "Neighborhoods|Caecum_int_Caecum_cell|Felodipine|P (interstitial->intracellular)",
+          "Value": 0.0891674187,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|Caecum_int_Caecum_cell|Felodipine|P (intracellular->interstitial)",
+          "Value": 0.0891674187,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|ColonAscendens_int_ColonAscendens_cell|Felodipine|P (interstitial->intracellular)",
+          "Value": 0.0891674187,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|ColonAscendens_int_ColonAscendens_cell|Felodipine|P (intracellular->interstitial)",
+          "Value": 0.0891674187,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|ColonDescendens_int_ColonDescendens_cell|Felodipine|P (interstitial->intracellular)",
+          "Value": 0.0891674187,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|ColonDescendens_int_ColonDescendens_cell|Felodipine|P (intracellular->interstitial)",
+          "Value": 0.0891674187,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|ColonSigmoid_int_ColonSigmoid_cell|Felodipine|P (interstitial->intracellular)",
+          "Value": 0.0891674187,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|ColonSigmoid_int_ColonSigmoid_cell|Felodipine|P (intracellular->interstitial)",
+          "Value": 0.0891674187,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|ColonTransversum_int_ColonTransversum_cell|Felodipine|P (interstitial->intracellular)",
+          "Value": 0.0891674187,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|ColonTransversum_int_ColonTransversum_cell|Felodipine|P (intracellular->interstitial)",
+          "Value": 0.0891674187,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|Duodenum_int_Duodenum_cell|Felodipine|P (interstitial->intracellular)",
+          "Value": 0.0891674187,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|Duodenum_int_Duodenum_cell|Felodipine|P (intracellular->interstitial)",
+          "Value": 0.0891674187,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|LowerIleum_int_LowerIleum_cell|Felodipine|P (interstitial->intracellular)",
+          "Value": 0.0891674187,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|LowerIleum_int_LowerIleum_cell|Felodipine|P (intracellular->interstitial)",
+          "Value": 0.0891674187,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|LowerJejunum_int_LowerJejunum_cell|Felodipine|P (interstitial->intracellular)",
+          "Value": 0.0891674187,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|LowerJejunum_int_LowerJejunum_cell|Felodipine|P (intracellular->interstitial)",
+          "Value": 0.0891674187,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|Rectum_int_Rectum_cell|Felodipine|P (interstitial->intracellular)",
+          "Value": 0.0891674187,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|Rectum_int_Rectum_cell|Felodipine|P (intracellular->interstitial)",
+          "Value": 0.0891674187,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|UpperIleum_int_UpperIleum_cell|Felodipine|P (interstitial->intracellular)",
+          "Value": 0.0891674187,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|UpperIleum_int_UpperIleum_cell|Felodipine|P (intracellular->interstitial)",
+          "Value": 0.0891674187,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|UpperJejunum_int_UpperJejunum_cell|Felodipine|P (interstitial->intracellular)",
+          "Value": 0.0891674187,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|UpperJejunum_int_UpperJejunum_cell|Felodipine|P (intracellular->interstitial)",
+          "Value": 0.0891674187,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Undefined Liver|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (intestine)",
+          "Value": 1380.0,
+          "Unit": "min"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (liver)",
+          "Value": 2160.0,
+          "Unit": "min"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Felodipine|Plasma (Peripheral Venous Blood)"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Bailey1996_Control|Organism|PeripheralVenousBlood|Felodipine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Bailey 1996 - 10mg-PO ER tablet - Felodipine - PO - 10 mg - Plasma - agg. (n=12)"
+        }
+      ],
+      "Individual": "European (P-gp modified, CYP3A4 36 h)",
+      "Compounds": [
+        {
+          "Name": "Felodipine",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Walsky 2004",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "MoleculeName": "UGT1A4"
+            },
+            {
+              "Name": "Total Hepatic Clearance-Unspecific hepatic clearance",
+              "SystemicProcessType": "Hepatic"
+            }
+          ],
+          "Protocol": {
+            "Name": "Bailey1996_Control_Felodipine_PO_10mg",
+            "Formulations": [
+              {
+                "Name": "Felodipine_ER tablet",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Felodipine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Bailey1996_Control|Organism|PeripheralVenousBlood|Felodipine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Bailey 1996 - 10mg-PO ER tablet - Felodipine - PO - 10 mg - Plasma - agg. (n=12)-Felodipine-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "X": "Bailey 1996 - 10mg-PO ER tablet - Felodipine - PO - 10 mg - Plasma - agg. (n=12)|Time",
+              "Y": "Bailey 1996 - 10mg-PO ER tablet - Felodipine - PO - 10 mg - Plasma - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Felodipine|ArithmeticMean",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 2,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Erythromycin-Felodipine-DDI\nBailey1996_Control\n2023-11-28 15:06"
+        }
+      ]
+    },
+    {
+      "Name": "Bailey1996_Treatment",
+      "Model": "4Comp",
+      "ObservedData": [
+        "Bailey 1996 - Erythromycin DDI, treatment group - Felodipine - PO - 10 mg - Plasma - agg. (n=12)"
+      ],
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 48.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 4.0,
+              "Unit": "pts/h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|Bailey1996_Treatment_Erythromycin_PO_250mg_QID|Erythromycin_Weibull_enteric-coated-tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Bailey1996_Treatment_Erythromycin_PO_250mg_QID|Erythromycin_Weibull_enteric-coated-tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Bailey1996_Treatment_Erythromycin_PO_250mg_QID|Erythromycin_Weibull_enteric-coated-tablet|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Bailey1996_Treatment_Erythromycin_PO_250mg_QID|Erythromycin_Weibull_enteric-coated-tablet|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Bailey1996_Treatment_Erythromycin_PO_250mg_QID|Erythromycin_Weibull_enteric-coated-tablet|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Bailey1996_Treatment_Erythromycin_PO_250mg_QID|Erythromycin_Weibull_enteric-coated-tablet|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Bailey1996_Treatment_Erythromycin_PO_250mg_QID|Erythromycin_Weibull_enteric-coated-tablet|Application_7|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Bailey1996_Treatment_Erythromycin_PO_250mg_QID|Erythromycin_Weibull_enteric-coated-tablet|Application_8|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Bailey1996_Treatment_Felodipine_PO_10mg_24h|Felodipine_ER tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Bailey1996_Treatment_Felodipine_PO_10mg_24h|Felodipine_ER tablet|Application_1|Tablet time delay factor",
+          "Value": 0.0695415108,
+          "ValueOrigin": {
+            "Source": "ParameterIdentification",
+            "Method": "ParameterIdentification",
+            "Description": "Value updated from 'PI_IV+Solution+ER+DDI_additionalCL_3' on 2022-08-10 10:41"
+          }
+        },
+        {
+          "Path": "Neighborhoods|Caecum_int_Caecum_cell|Felodipine|P (interstitial->intracellular)",
+          "Value": 0.0891674187,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|Caecum_int_Caecum_cell|Felodipine|P (intracellular->interstitial)",
+          "Value": 0.0891674187,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|ColonAscendens_int_ColonAscendens_cell|Felodipine|P (interstitial->intracellular)",
+          "Value": 0.0891674187,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|ColonAscendens_int_ColonAscendens_cell|Felodipine|P (intracellular->interstitial)",
+          "Value": 0.0891674187,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|ColonDescendens_int_ColonDescendens_cell|Felodipine|P (interstitial->intracellular)",
+          "Value": 0.0891674187,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|ColonDescendens_int_ColonDescendens_cell|Felodipine|P (intracellular->interstitial)",
+          "Value": 0.0891674187,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|ColonSigmoid_int_ColonSigmoid_cell|Felodipine|P (interstitial->intracellular)",
+          "Value": 0.0891674187,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|ColonSigmoid_int_ColonSigmoid_cell|Felodipine|P (intracellular->interstitial)",
+          "Value": 0.0891674187,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|ColonTransversum_int_ColonTransversum_cell|Felodipine|P (interstitial->intracellular)",
+          "Value": 0.0891674187,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|ColonTransversum_int_ColonTransversum_cell|Felodipine|P (intracellular->interstitial)",
+          "Value": 0.0891674187,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|Duodenum_int_Duodenum_cell|Felodipine|P (interstitial->intracellular)",
+          "Value": 0.0891674187,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|Duodenum_int_Duodenum_cell|Felodipine|P (intracellular->interstitial)",
+          "Value": 0.0891674187,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|LowerIleum_int_LowerIleum_cell|Felodipine|P (interstitial->intracellular)",
+          "Value": 0.0891674187,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|LowerIleum_int_LowerIleum_cell|Felodipine|P (intracellular->interstitial)",
+          "Value": 0.0891674187,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|LowerJejunum_int_LowerJejunum_cell|Felodipine|P (interstitial->intracellular)",
+          "Value": 0.0891674187,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|LowerJejunum_int_LowerJejunum_cell|Felodipine|P (intracellular->interstitial)",
+          "Value": 0.0891674187,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|Rectum_int_Rectum_cell|Felodipine|P (interstitial->intracellular)",
+          "Value": 0.0891674187,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|Rectum_int_Rectum_cell|Felodipine|P (intracellular->interstitial)",
+          "Value": 0.0891674187,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|UpperIleum_int_UpperIleum_cell|Felodipine|P (interstitial->intracellular)",
+          "Value": 0.0891674187,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|UpperIleum_int_UpperIleum_cell|Felodipine|P (intracellular->interstitial)",
+          "Value": 0.0891674187,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|UpperJejunum_int_UpperJejunum_cell|Felodipine|P (interstitial->intracellular)",
+          "Value": 0.0891674187,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|UpperJejunum_int_UpperJejunum_cell|Felodipine|P (intracellular->interstitial)",
+          "Value": 0.0891674187,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Undefined Liver|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (intestine)",
+          "Value": 1380.0,
+          "Unit": "min"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (liver)",
+          "Value": 2160.0,
+          "Unit": "min"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Felodipine|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|Erythromycin|Plasma (Peripheral Venous Blood)"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Bailey1996_Treatment|Organism|PeripheralVenousBlood|Felodipine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Bailey 1996 - Erythromycin DDI, treatment group - Felodipine - PO - 10 mg - Plasma - agg. (n=12)"
+        }
+      ],
+      "Individual": "European (P-gp modified, CYP3A4 36 h)",
+      "Compounds": [
+        {
+          "Name": "Felodipine",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Walsky 2004",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "MoleculeName": "UGT1A4"
+            },
+            {
+              "Name": "Total Hepatic Clearance-Unspecific hepatic clearance",
+              "SystemicProcessType": "Hepatic"
+            }
+          ],
+          "Protocol": {
+            "Name": "Bailey1996_Treatment_Felodipine_PO_10mg_24h",
+            "Formulations": [
+              {
+                "Name": "Felodipine_ER tablet",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Erythromycin",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - Charge dependent Schmitt"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Erythromycin base enteric coated tablet",
+              "GroupName": "COMPOUND_SOLUBILITY"
+            },
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Biotransformation_fitted",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "MoleculeName": "UGT1A4"
+            },
+            {
+              "Name": "Total Hepatic Clearance-fitted",
+              "SystemicProcessType": "Hepatic"
+            },
+            {
+              "MoleculeName": "P-gp"
+            },
+            {
+              "Name": "OATP1B1-fitted",
+              "MoleculeName": "OATP1B1"
+            },
+            {
+              "Name": "Glomerular Filtration-fitted",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Bailey1996_Treatment_Erythromycin_PO_250mg_QID",
+            "Formulations": [
+              {
+                "Name": "Erythromycin_Weibull_enteric-coated-tablet",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µg/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Erythromycin-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Bailey1996_Treatment|Organism|PeripheralVenousBlood|Erythromycin|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Felodipine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Bailey1996_Treatment|Organism|PeripheralVenousBlood|Felodipine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 2
+              }
+            },
+            {
+              "Name": "Bailey 1996 - Erythromycin DDI, treatment group - Felodipine - PO - 10 mg - Plasma - agg. (n=12)-Felodipine-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "X": "Bailey 1996 - Erythromycin DDI, treatment group - Felodipine - PO - 10 mg - Plasma - agg. (n=12)|Time",
+              "Y": "Bailey 1996 - Erythromycin DDI, treatment group - Felodipine - PO - 10 mg - Plasma - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Felodipine|ArithmeticMean",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 3,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Erythromycin-Felodipine-DDI\nBailey1996_Treatment\n2023-11-28 15:06"
+        }
+      ],
+      "Interactions": [
+        {
+          "Name": "CYP3A4-MBI",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "Erythromycin"
+        }
+      ]
+    }
+  ],
+  "ObservedData": [
+    {
+      "Name": "Bailey 1996 - Erythromycin DDI, treatment group - Felodipine - PO - 10 mg - Plasma - agg. (n=12)",
+      "ExtendedProperties": [
+        {
+          "Name": "DB Version",
+          "Value": "OSP DATABASE",
+          "Type": "String"
+        },
+        {
+          "Name": "ID",
+          "Value": 16062.0,
+          "Type": "Double"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "Bailey 1996",
+          "Type": "String"
+        },
+        {
+          "Name": "Reference",
+          "Value": "https://pubmed.ncbi.nlm.nih.gov/8689808/",
+          "Type": "String"
+        },
+        {
+          "Name": "Source",
+          "Value": "Fig. 2",
+          "Type": "String"
+        },
+        {
+          "Name": "Grouping",
+          "Value": "Erythromycin DDI, treatment group",
+          "Type": "String"
+        },
+        {
+          "Name": "Data type",
+          "Value": "aggregated",
+          "Type": "String"
+        },
+        {
+          "Name": "N",
+          "Value": 12.0,
+          "Type": "Double"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "Felodipine",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma",
+          "Type": "String"
+        },
+        {
+          "Name": "Route",
+          "Value": "PO",
+          "Type": "String"
+        },
+        {
+          "Name": "Dose",
+          "Value": "10 mg",
+          "Type": "String"
+        },
+        {
+          "Name": "Times of Administration [h]",
+          "Value": 24.0,
+          "Type": "Double"
+        },
+        {
+          "Name": "Formulation",
+          "Value": "ER tablet",
+          "Type": "String"
+        },
+        {
+          "Name": "Food state",
+          "Value": "Fasted",
+          "Type": "String"
+        },
+        {
+          "Name": "Comment",
+          "Value": "Arith. SEM converted to arith. SD",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Avg",
+          "RelatedColumns": [
+            {
+              "Name": "Var",
+              "QuantityInfo": {
+                "Path": "Bailey 1996 - Erythromycin DDI, treatment group - Felodipine - PO - 10 mg - Plasma - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Felodipine|ArithmeticStdDev"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 384.254
+              },
+              "Values": [
+                0.000820715039,
+                "NaN",
+                0.00221593073,
+                0.00251685968,
+                0.00257157418,
+                0.00270835985,
+                0.002133859,
+                0.00166878733,
+                0.00128578709,
+                0.00128578709,
+                0.0005197862
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "mg/l"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Bailey 1996 - Erythromycin DDI, treatment group - Felodipine - PO - 10 mg - Plasma - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Felodipine|ArithmeticMean"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 384.254,
+            "LLOQ": 1E-09
+          },
+          "Values": [
+            0.323790729,
+            2.740375,
+            4.95162868,
+            6.27048349,
+            6.64955568,
+            6.76011848,
+            6.38894367,
+            4.82527161,
+            3.36426449,
+            2.74827266,
+            0.9397828
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "µg/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Bailey 1996 - Erythromycin DDI, treatment group - Felodipine - PO - 10 mg - Plasma - agg. (n=12)|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          24.5,
+          25.0,
+          25.5,
+          26.0,
+          26.5,
+          27.0,
+          28.0,
+          29.0,
+          30.0,
+          32.0,
+          48.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Bailey 1996 - 10mg-PO ER tablet - Felodipine - PO - 10 mg - Plasma - agg. (n=12)",
+      "ExtendedProperties": [
+        {
+          "Name": "DB Version",
+          "Value": "OSP DATABASE",
+          "Type": "String"
+        },
+        {
+          "Name": "ID",
+          "Value": 16005.0,
+          "Type": "Double"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "Bailey 1996",
+          "Type": "String"
+        },
+        {
+          "Name": "Reference",
+          "Value": "https://pubmed.ncbi.nlm.nih.gov/8689808/",
+          "Type": "String"
+        },
+        {
+          "Name": "Source",
+          "Value": "Fig. 2",
+          "Type": "String"
+        },
+        {
+          "Name": "Grouping",
+          "Value": "10mg-PO ER tablet",
+          "Type": "String"
+        },
+        {
+          "Name": "Data type",
+          "Value": "aggregated",
+          "Type": "String"
+        },
+        {
+          "Name": "N",
+          "Value": 12.0,
+          "Type": "Double"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "Felodipine",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma",
+          "Type": "String"
+        },
+        {
+          "Name": "Route",
+          "Value": "PO",
+          "Type": "String"
+        },
+        {
+          "Name": "Dose",
+          "Value": "10 mg",
+          "Type": "String"
+        },
+        {
+          "Name": "Times of Administration [h]",
+          "Value": 0.0,
+          "Type": "Double"
+        },
+        {
+          "Name": "Formulation",
+          "Value": "ER tablet",
+          "Type": "String"
+        },
+        {
+          "Name": "Food state",
+          "Value": "Fasted",
+          "Type": "String"
+        },
+        {
+          "Name": "Comment",
+          "Value": "Arith. SEM converted to arith. SD",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Avg",
+          "RelatedColumns": [
+            {
+              "Name": "Var",
+              "QuantityInfo": {
+                "Path": "Bailey 1996 - 10mg-PO ER tablet - Felodipine - PO - 10 mg - Plasma - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Felodipine|ArithmeticStdDev"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 384.254
+              },
+              "Values": [
+                "NaN",
+                0.0012310727,
+                0.00139521563,
+                0.00155935879,
+                0.00120371545,
+                0.0014499299,
+                0.00128578709,
+                0.00164143008,
+                0.001614073,
+                0.0010942868,
+                "NaN"
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "mg/l"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Bailey 1996 - 10mg-PO ER tablet - Felodipine - PO - 10 mg - Plasma - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Felodipine|ArithmeticMean"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 384.254,
+            "LLOQ": 1E-09
+          },
+          "Values": [
+            0.000150049367,
+            0.001342547,
+            0.00218756171,
+            0.00231391913,
+            0.002456071,
+            0.00281145121,
+            0.00235340558,
+            0.002219151,
+            0.00192694971,
+            0.00114511349,
+            0.000181638708
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "mg/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Bailey 1996 - 10mg-PO ER tablet - Felodipine - PO - 10 mg - Plasma - agg. (n=12)|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          0.5,
+          1.0,
+          1.5,
+          2.0,
+          2.5,
+          3.0,
+          4.0,
+          5.0,
+          6.0,
+          8.0,
+          24.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    }
+  ]
+}
