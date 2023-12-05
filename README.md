@@ -4,6 +4,8 @@ Modeling of published clinical Erythromycin-Felodipine-DDI studies for model eva
 
 Within this repository, we distribute a PK-Sim snapshot file containing simulations of published clinical studies used to evaluate the predictive performance of our models regarding the Erythromycin-Felodipine-DDI, including the respective observed data digitized from literature reports.
 
+**The latest release of the snapshot can be found [here](https://github.com/Open-Systems-Pharmacology/Erythromycin-Felodipine-DDI/releases/latest).**
+
 The reference model repositories can be found here:
 * [Erythromycin OSP PBPK model](https://github.com/Open-Systems-Pharmacology/Erythromycin-Model)
 * [Felodipine OSP PBPK model](https://github.com/Open-Systems-Pharmacology/Felodipine-Model)
